@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tobias Dienlin",
-    "section": "",
-    "text": "Welcome!\nMy name is Tobias Dienlin. I’m a professor for Media Psychology and Methods at the Department of Communication, University of Zurich.\nMy research interests include media effects, well-being, privacy, and open science.\nOn this website, you can find a blog where I occasionally write about research and current findings. You can also find the current version of my CV.\nPlease always feel free to reach out! You can find me on Bluesky, Google Scholar, ORCID, GitHub, or send me an email"
-  },
-  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
@@ -19,5 +12,12 @@
     "title": "Hello World",
     "section": "",
     "text": "Welcome to my new blog! Unfortunately, my prior website isn’t working anymore, and my backup got eaten by spilled coffee. So here’s to new adventures and a new blog! I might also repost some older post for which I can find backups.\nThe picture was taken in 2024 after I interviewed for my current position in Zurich. View is from the main university tower."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tobias Dienlin",
+    "section": "",
+    "text": "Welcome!\nMy name is Tobias Dienlin. I’m a professor for Media Psychology and Methods at the Department of Communication, University of Zurich.\nMy research interests include media effects, well-being, privacy, and open science.\nOn this website, you can find a blog where I occasionally write about research and current findings. You can also find the current version of my CV.\nPlease always feel free to reach out! You can find me on Bluesky, Google Scholar, ORCID, GitHub, or send me an email"
   }
 ]
