@@ -11,6 +11,8 @@ website:
         text: Home
       - href: blog.qmd
         text: Blog
+      - href: https://drive.switch.ch/index.php/s/UsTkjl3VqNpECsc
+        text: CV
 
 format:
   html:
