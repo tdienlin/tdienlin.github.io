@@ -8,7 +8,7 @@ toc: false
 
 ![](images/Portrait_Tobias-Dienlin_2025_16-9.jpg){fig-alt="Portrait of Tobias Dienlin" .profile}
 
-My name is Tobias Dienlin. I'm a professor for Media Psychology and Methods at the Department of Communication, University of Zurich.
+My name is Tobias Dienlin. I'm a professor for Media Psychology and Methods at the [Department of Communication](https://www.ikmz.uzh.ch/de/department/people/professors/tobias-dienlin.html), University of Zurich.
 
 My research interests include media effects, well-being, privacy, and open science.
 
