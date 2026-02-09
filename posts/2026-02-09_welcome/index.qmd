@@ -1,0 +1,13 @@
+---
+title: "Hello World"
+date: 2026-02-09
+categories: [updates]
+---
+
+Welcome to my new blog! Unfortunately, my prior website isn't working anymore, and my backup got eaten by spilled coffee. So here's to new adventures and a new blog! I might also repost some older post for which I can find backups.
+
+The picture was taken in 2024 after I interviewed for my current position in Zurich. View is from the main university tower.
+
+![](../../images/zurich_hearing.jpeg){fig-alt="Tobias Dienlin in Zurich" width="300"}
+---
+

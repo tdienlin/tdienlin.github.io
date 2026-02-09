@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Tobias Dienlin"
+  site-url: "https://tobiasdienlin.com"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: blog.qmd
+        text: Blog
+
+format:
+  html:
+    theme: cosmo
