@@ -14,6 +14,8 @@ website:
       - href: https://drive.switch.ch/index.php/s/UsTkjl3VqNpECsc
         text: CV
         target: _blank
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
