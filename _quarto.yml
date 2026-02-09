@@ -19,3 +19,4 @@ format:
   html:
     theme: cosmo
     css: style.css
+    max-width: 900px
