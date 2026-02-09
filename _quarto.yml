@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Tobias Dienlin"
-  site-url: "https://www.tobiasdienlin.com"
+  site-url: "https://tdienlin.github.io"
   navbar:
     left:
       - href: index.qmd
