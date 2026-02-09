@@ -4,8 +4,9 @@ title: "Contact"
 
 This website is run by:
 
-Tobias Dienlin
-Andreasstrasse 15, 8050 Zurich, Switzerland
-[email](mailto:tobias.dienlin@uzh.ch)
+ - Tobias Dienlin
+ - Andreasstrasse 15, 8050 Zurich, Switzerland
+ - [Send email](mailto:tobias.dienlin@uzh.ch)
+
 ---
 
