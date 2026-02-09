@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>Tobias Dienlin</title>
-<link>https://www.tobiasdienlin.com/blog.html</link>
-<atom:link href="https://www.tobiasdienlin.com/blog.xml" rel="self" type="application/rss+xml"/>
+<link>https://tdienlin.github.io/blog.html</link>
+<atom:link href="https://tdienlin.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.32</generator>
 <lastBuildDate>Sun, 08 Feb 2026 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Hello World</title>
-  <link>https://www.tobiasdienlin.com/posts/2026-02-09_welcome/</link>
+  <link>https://tdienlin.github.io/posts/2026-02-09_welcome/</link>
   <description><![CDATA[ 
 
 
@@ -22,14 +22,14 @@
 <p>Welcome to my new blog! Unfortunately, my prior website isn’t working anymore, and my backup got eaten by spilled coffee. So here’s to new adventures and a new blog! I might also repost some older post for which I can find backups.</p>
 <p>The picture was taken in 2024 after I interviewed for my current position in Zurich. View is from the main university tower.</p>
 <section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"><img src="https://www.tobiasdienlin.com/images/zurich_hearing.jpeg" class="img-fluid" alt="Tobias Dienlin in Zurich" width="300"></h2>
+<h2 class="anchored" data-anchor-id="section"><img src="https://tdienlin.github.io/images/zurich_hearing.jpeg" class="img-fluid" alt="Tobias Dienlin in Zurich" width="300"></h2>
 
 
 </section>
 
  ]]></description>
   <category>updates</category>
-  <guid>https://www.tobiasdienlin.com/posts/2026-02-09_welcome/</guid>
+  <guid>https://tdienlin.github.io/posts/2026-02-09_welcome/</guid>
   <pubDate>Sun, 08 Feb 2026 23:00:00 GMT</pubDate>
 </item>
 </channel>
