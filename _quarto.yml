@@ -4,7 +4,8 @@ project:
 
 website:
   title: "Tobias Dienlin"
-  site-url: "https://tdienlin.github.io"
+  site-url: https://tdienlin.github.io
+  favicon: images/favicon.ico
   navbar:
     left:
       - href: index.qmd
