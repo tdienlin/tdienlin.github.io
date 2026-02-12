@@ -9,6 +9,6 @@ My name is Tobias Dienlin. I'm a professor for Media Psychology and Methods at t
 
 My research interests include media effects, well-being, privacy, and open science.
 
-On this website, you can find a [blog](/posts) where I occasionally write about research and current findings. You can also find the latest version of my [CV](https://drive.switch.ch/index.php/s/UsTkjl3VqNpECsc){target="_blank"}.
+On this website, you can find a [blog](/blog.qmd) where I occasionally write about research and current findings. You can also find the latest version of my [CV](https://drive.switch.ch/index.php/s/UsTkjl3VqNpECsc){target="_blank"}.
 
 Please always feel free to reach out! You can find me on [Bluesky](https://bsky.app/profile/tobiasdienlin.com){target="_blank"}, [Google Scholar](https://scholar.google.com/citations?user=z0bojUIAAAAJ){target="_blank"}, [ORCID](https://orcid.org/0000-0002-6875-8083){target="_blank"}, [GitHub](https://github.com/tdienlin){target="_blank"}, or send me an [email](mailto:tobias.dienlin@uzh.ch).
